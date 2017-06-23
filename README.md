@@ -1,0 +1,2 @@
+# DSI_Project4
+Project 4 of DSI 2017. In this project, I scraped Seek.com.au for >1000 job postings related to data science. After (extensive) cleaning, I used machine learning algorithms to predict whether a job posting would be above or below $80,000. Logistic regression was the best-performing algorithm with an accuracy of 77.8%, but it's actually only a marginal improvement over the baseline accuracy of 73.7%
